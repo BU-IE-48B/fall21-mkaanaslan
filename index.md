@@ -16,8 +16,8 @@
 
 ## Homework 4
 
-[Here](files/hw4.html) is my Homework 3 report.  
+[Here](files/hw4.html) is my Homework 4 report.  
 
-[Here](files/hw4.ipynb) is my Homework 3 Jupyter Notebook file.
+[Here](files/hw4.ipynb) is my Homework 4 Jupyter Notebook file.
 
 
