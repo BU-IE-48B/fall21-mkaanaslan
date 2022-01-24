@@ -23,11 +23,11 @@
 
 ## Project
 
-[Here](files/48bprojectreport.html) is my project report.  
+[Here](files/48projectreport.html) is my project report.  
 
 [Here](files/48bprojectanalysis.html) is my project code and analysis report.
 
-[Here](files/48bprojectcode.html) is my project Jupyter Notebook file.
+[Here](files/48bprojectcode.ipynb) is my project Jupyter Notebook file.
 
 
 
