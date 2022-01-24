@@ -21,3 +21,13 @@
 [Here](files/hw4.ipynb) is my Homework 4 Jupyter Notebook file.
 
 
+## Project
+
+[Here](files/48bprojectreport.html) is my project report.  
+
+[Here](files/48bprojectanalysis.html) is my project code and analysis report.
+
+[Here](files/48bprojectcode.html) is my project Jupyter Notebook file.
+
+
+
